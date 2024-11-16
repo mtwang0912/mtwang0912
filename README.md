@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mtwang0912
+- 👀 I’m interested in network and complexity science, numerical methods, machine learning, etc..
+- 🌱 I’m currently learning C++ and backend technologies (Java, SpringBoot)
+- 📫 You can reach me on my email: tongnianwang0912@gmail.com
+- 😄 Pronouns: she/her
